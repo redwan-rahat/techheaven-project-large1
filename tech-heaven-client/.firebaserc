@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "complete-portfolio-projects"
+  },
+  "targets": {
+    "complete-portfolio-projects": {
+      "hosting": {
+        "techheaven": [
+          "techheaven"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
